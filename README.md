@@ -1,4 +1,3 @@
-# Customer-Complaint-Power-bi-
 # Customer Complaint Dashboard
 <b>video demonstration</b><br>
 ![video](/Screenshots/demonstration.gif)
